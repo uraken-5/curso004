@@ -4,7 +4,7 @@ En este repositorio encontrarás ejemplos de proyectos Java que ilustran los pri
 
 ## Principios SOLID
 
-![Principios SOLID](https://i.imgur.com/8R5h8XU.png)
+![Principios SOLID](https://i0.wp.com/fusiona.cl/wp-content/uploads/principios-solid-por-que-usarlos-en-tu-desarrollo-de-software.webp)
 
 ### 1. Principio de Responsabilidad Única (SRP)
 El SRP establece que una clase debe tener una sola razón para cambiar. Los ejemplos en este repositorio demuestran cómo dividir la funcionalidad en clases separadas para garantizar la cohesión y facilitar el mantenimiento del código.
