@@ -1,0 +1,34 @@
+# Archivos de Eclipse
+.metadata/
+bin/
+.settings/
+
+# Archivos compilados
+*.class
+
+# Archivos generados por el IDE o el sistema operativo
+*.iml
+*.ipr
+*.iws
+*.log
+.DS_Store
+thumbs.db
+
+# Dependencias y directorios de compilación
+target/
+out/
+build/
+
+# Otros archivos generados por herramientas y procesos de compilación
+.idea/
+.gradle/
+.mvn/
+
+# Archivos específicos del proyecto (ajustar según sea necesario)
+# Si estás usando Maven:
+# pom.xml
+# target/
+# Si estás usando Gradle:
+# build.gradle
+# .gradle/
+
