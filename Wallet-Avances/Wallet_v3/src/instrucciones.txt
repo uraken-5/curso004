@@ -1,0 +1,8 @@
+Constructor por defecto y constructor con saldo, número de cuenta
+y nombre.
+2. Agregar los métodos getters y setters correspondientes
+3. Método para crear un objeto Cuenta, pidiéndole los datos al
+usuario.
+Luego, vamos a realizar pruebas para acceder y modificar los datos de
+una cuenta y ver así el comportamiento de los métodos accesadores y
+mutadores
